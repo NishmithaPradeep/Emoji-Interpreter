@@ -7,7 +7,11 @@ var emojiDictionary = {
   "😀": "happy",
   "😠": "anger",
   "😕": "confused",
-  "❤️": "love"
+  "❤️": "love",
+  "🤗": "Hugging",
+  "🐶": "Dog",
+  "🍉": "Watermelon",
+  "☎️": "Telephone"
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
